@@ -4,3 +4,6 @@ hello pranay
 why is it not updating
 this the 4th test about conflicts and merge
 5th test case
+hello(*)
+pranay
+additional changes while merging
