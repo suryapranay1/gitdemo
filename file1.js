@@ -3,6 +3,6 @@ let num=10;
  {
     number++;
  }
-
+//merging
  increase(4);
  console.log(num);
